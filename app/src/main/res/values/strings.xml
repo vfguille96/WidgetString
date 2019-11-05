@@ -1,0 +1,9 @@
+<resources>
+    <string-array name="num_empl">
+        <item>1-5</item>
+        <item>6-10</item>
+        <item>11-15</item>
+    </string-array>
+
+    <string name="app_name">WidgetString</string>
+</resources>
