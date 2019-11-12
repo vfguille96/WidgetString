@@ -1,9 +1,25 @@
 <resources>
     <string-array name="num_empl">
-        <item>1-5</item>
-        <item>6-10</item>
-        <item>11-15</item>
+        <item>0</item>
+        <item>1</item>
+        <item>5</item>
+        <item>20</item>
+        <item>50</item>
     </string-array>
+
+    <plurals name="num_empl_pl">
+        <item quantity="zero">No hay empleados</item>
+        <item quantity="one">Un empleado</item>
+        <item quantity="other">La empresa tiene %d empleados</item>
+    </plurals>
+
+    <string name="wbInfo">
+        <![CDATA[
+        <html>
+            <p>Holiwiiiiiii</p>
+        </html>
+        ]]>
+    </string>
 
     <string name="app_name">WidgetString</string>
 </resources>
