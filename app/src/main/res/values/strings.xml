@@ -7,6 +7,8 @@
         <item>50</item>
     </string-array>
 
+    <string name="zeroE">No hay empleados</string>
+
     <plurals name="num_empl_pl">
         <item quantity="zero">No hay empleados</item>
         <item quantity="one">Un empleado</item>
